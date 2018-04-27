@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1524261661 source:c:\users\marcus\desktop\cs161 c++\textclass\main.cpp
+	<iostream>
+	<stdexcept>
+	"textClass.h"
+
+1524809563 c:\users\marcus\desktop\cs161 c++\textclass\textclass.h
+	<string>
+
+1524809741 source:c:\users\marcus\desktop\cs161 c++\textclass\textclass.cpp
+	"textClass.h"
+	<stdexcept>
+	<string>
+	<sstream>
+	<iostream>
+
+1524812868 source:c:\users\marcus\desktop\cs161 c++\textclass\studentlist.cpp
+	<string>
+	<sstream>
+	<iostream>
+	<stdexcept>
+	"StudentList.h"
+
+1524813112 c:\users\marcus\desktop\cs161 c++\textclass\studentlist.h
+	<string>
+
